@@ -1,0 +1,6 @@
+{
+  "name": "DC Angels Apapa — Choir Portal",
+  "description": "Comprehensive Choir Management System for DC Angels Apapa covering members, leaders, rehearsals, ministrations, attendance, finances, units, music library, welfare, assets, organogram, roster, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
